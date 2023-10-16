@@ -4,7 +4,16 @@ Midbar Firebase Edition - is the edition of [Midbar](https://github.com/Northstr
 </br>
 SourceForge Page: https://sourceforge.net/projects/midbar-firebase-edition/
 </br>
-Tutorial: https://www.instructables.com/DIY-IoT-Data-Vault-With-Google-Firebase/
+Tutorials:
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;V1.0:
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.instructables.com/DIY-IoT-Data-Vault-With-Google-Firebase/
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://medium.com/@Northstrix/diy-iot-data-vault-with-google-firebase-midbar-firebase-edition-v1-0-e4cf579cec8b
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.hackster.io/northstrix/diy-iot-data-vault-with-google-firebase-midbar-firebase-v1-688705
+</br>
 </br>
 
 
