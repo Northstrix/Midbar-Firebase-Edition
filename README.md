@@ -19,6 +19,9 @@ Tutorials:
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://medium.com/@Northstrix/syncing-mcu-password-vault-with-desktop-app-using-google-firebase-28963e060444
 
+![image text](https://github.com/Northstrix/Midbar-Firebase-Edition/blob/main/V3.0/Pictures/Desktop%20App.png)
+![image text](https://github.com/Northstrix/Midbar-Firebase-Edition/blob/main/V3.0/Pictures/About%20Desktop%20App.png)
+![image text](https://github.com/Northstrix/Midbar-Firebase-Edition/blob/main/V3.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar-Firebase-Edition/blob/main/V2.0/Pictures/IMG_0258.JPG)
 ![image text](https://github.com/Northstrix/Midbar-Firebase-Edition/blob/main/V2.0/Pictures/View%20Login.png)
 ![image text](https://github.com/Northstrix/Midbar-Firebase-Edition/blob/main/V1.0/Pictures/IMG_20231013_174407.jpg)
