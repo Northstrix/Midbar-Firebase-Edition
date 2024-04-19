@@ -3813,6 +3813,7 @@ void perform_factory_reset() {
   tft.print("Please wait for a while.");
   delay(1000);
   delete_file("/mpass");
+  delete_file("/salt");
   for (int i = 0; i < MAX_NUM_OF_RECS; i++) {
     delete_file("/L" + String(i + 1) + "_tag");
     delete_file("/L" + String(i + 1) + "_ttl");
