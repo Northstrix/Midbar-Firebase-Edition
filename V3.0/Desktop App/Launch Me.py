@@ -1,10 +1,10 @@
 """
 Midbar
 Distributed under the MIT License
-© Copyright Maxim Bortnikov 2023
+© Copyright Maxim Bortnikov 2024
 For more information please visit
-https://sourceforge.net/projects/midbar/
-https://github.com/Northstrix/Midbar
+https://sourceforge.net/projects/midbar-firebase-edition/
+https://github.com/Northstrix/Midbar-Firebase-Edition
 Required libraries:
 https://github.com/Northstrix/AES_in_CBC_mode_for_microcontrollers
 https://github.com/ulwanski/sha512
@@ -1830,7 +1830,7 @@ def delete_login():
     if (pointer_for_logins == 0):
         messagebox.showwarning("Warning", "Select the slot to continue.")
     else:
-        confirm_delete = messagebox.askyesno("Delete Record From Slot N{}".format(pointer_for_logins), "Are you sure you want to delete that record?")
+        confirm_delete = messagebox.askyesno("Delete Login From Slot N{}".format(pointer_for_logins), "Are you sure you want to delete that record?")
         if confirm_delete:
             # Delete the files
             db.reference("/L{}_ttl".format(pointer_for_logins)).delete()
@@ -1990,7 +1990,7 @@ def delete_credit_card():
     if pointer_for_credit_cards == 0:
         messagebox.showwarning("Warning", "Select the slot to continue.")
     else:
-        confirm_delete = messagebox.askyesno("Delete Record From Slot N{}".format(pointer_for_credit_cards), "Are you sure you want to delete that record?")
+        confirm_delete = messagebox.askyesno("Delete Credit Card From Slot N{}".format(pointer_for_credit_cards), "Are you sure you want to delete that record?")
         if confirm_delete:
             # Delete the files
             db.reference("/C{}_ttl".format(pointer_for_credit_cards)).delete()
@@ -2130,7 +2130,7 @@ def delete_note():
     if pointer_for_notes == 0:
         messagebox.showwarning("Warning", "Select the slot to continue.")
     else:
-        confirm_delete = messagebox.askyesno("Delete Record From Slot N{}".format(pointer_for_notes), "Are you sure you want to delete that record?")
+        confirm_delete = messagebox.askyesno("Delete Note From Slot N{}".format(pointer_for_notes), "Are you sure you want to delete that record?")
         if confirm_delete:
             # Delete the files
             db.reference("/N{}_ttl".format(pointer_for_notes)).delete()
@@ -2230,7 +2230,7 @@ def delete_phone_number():
     if pointer_for_phone_numbers == 0:
         messagebox.showwarning("Warning", "Select the slot to continue.")
     else:
-        confirm_delete = messagebox.askyesno("Delete Record From Slot N{}".format(pointer_for_phone_numbers), "Are you sure you want to delete that record?")
+        confirm_delete = messagebox.askyesno("Delete Phone Number From Slot N{}".format(pointer_for_phone_numbers), "Are you sure you want to delete that record?")
         if confirm_delete:
             # Delete the files
             db.reference("/P{}_ttl".format(pointer_for_phone_numbers)).delete()

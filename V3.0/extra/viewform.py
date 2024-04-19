@@ -1,16 +1,15 @@
 """
-Midbar Firebase Edition
+Midbar
 Distributed under the MIT License
 © Copyright Maxim Bortnikov 2024
 For more information please visit
 https://sourceforge.net/projects/midbar-firebase-edition/
 https://github.com/Northstrix/Midbar-Firebase-Edition
 Required libraries:
-https://github.com/zhouyangchao/AES
+https://github.com/Northstrix/AES_in_CBC_mode_for_microcontrollers
 https://github.com/ulwanski/sha512
-https://github.com/adafruit/Adafruit-ST7735-Library
-https://github.com/adafruit/Adafruit-GFX-Library
-https://github.com/adafruit/Adafruit_BusIO
+https://github.com/Bodmer/TFT_eSPI
+https://github.com/intrbiz/arduino-crypto
 https://github.com/techpaul/PS2KeyAdvanced
 https://github.com/techpaul/PS2KeyMap
 https://github.com/mobizt/Firebase-ESP32

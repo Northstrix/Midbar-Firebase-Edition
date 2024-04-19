@@ -1,10 +1,10 @@
 /*
 Midbar
 Distributed under the MIT License
-© Copyright Maxim Bortnikov 2023
+© Copyright Maxim Bortnikov 2024
 For more information please visit
-https://sourceforge.net/projects/midbar/
-https://github.com/Northstrix/Midbar
+https://sourceforge.net/projects/midbar-firebase-edition/
+https://github.com/Northstrix/Midbar-Firebase-Edition
 Required libraries:
 https://github.com/Northstrix/AES_in_CBC_mode_for_microcontrollers
 https://github.com/ulwanski/sha512
