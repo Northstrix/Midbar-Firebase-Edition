@@ -24,6 +24,7 @@ Tutorials:
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.instructables.com/DIY-Advanced-IoT-Password-Vault-Synced-With-Deskto/
 
+![image text](https://github.com/Northstrix/Midbar-Firebase-Edition/blob/main/V3.0/Pictures/IMG_20240609_224750.jpg)
 ![image text](https://github.com/Northstrix/Midbar-Firebase-Edition/blob/main/V3.0/Pictures/Desktop%20App%20%2B%20View%20Record.png)
 ![image text](https://github.com/Northstrix/Midbar-Firebase-Edition/blob/main/V3.0/Pictures/About%20Desktop%20App.png)
 ![image text](https://github.com/Northstrix/Midbar-Firebase-Edition/blob/main/V3.0/Pictures/Midbar%20Circuit%20Diagram.png)
